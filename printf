@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+
+int main() {
+
+
+	printf("2021111867_조우신"); // 출력함수호출 
+
+	return 0;
+
+}
